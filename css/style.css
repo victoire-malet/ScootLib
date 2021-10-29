@@ -1,0 +1,19 @@
+	@import url("https://fonts.googleapis.com/css2?family=Andada+Pro:ital,wght@0,400;1,500;1,800&family=Lora:ital,wght@0,400;1,600&display=swap");
+	@import url("components/container.css");
+	@import url("components/avatar.css");
+	@import url("components/buttom.css");
+	@import url("components/banner.css");
+
+	body {
+		font-family: 'Lora', serif;
+		font-size: 18px; 
+	}
+
+	h1, h2, h3 {
+		font-family: 'Lora', serif;
+		font-weight: bold;
+	}
+
+	a {
+		text-decoration: none;
+	}
